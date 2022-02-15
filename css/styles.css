@@ -1,0 +1,7 @@
+table, th, td{
+    border: solid 1px black;
+    
+}
+caption{
+    padding-bottom: 3px;
+}
